@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_restaurants"
+            android:icon="@drawable/restaurant_symbol"
+            android:title="@string/restaurants_name"/>
+        <item
+            android:id="@+id/nav_food_trucks"
+            android:icon="@drawable/food_trucks_symbol"
+            android:title="@string/food_trucks_name"/>
+        <item
+            android:id="@+id/nav_resources"
+            android:icon="@drawable/resources_symbol"
+            android:title="@string/resources_name"/>
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/events_symbol"
+            android:title="@string/events_name"/>
+    </group>
+
+</menu>

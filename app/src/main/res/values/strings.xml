@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VeGvidisto Knoxville</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Restaurants section-->
+    <string name="restaurants_name">Restaurants</string>
+
+    <string name="restaurant_holy_land">Holy Land Market</string>
+    <string name="restaurant_holy_land_description">This locally-owned deli is well-known for its falafel, koshary, and other Middle Eastern cuisine.</string>
+    <string name="restaurant_holy_land_address">3601 Sutherland Ave, Knoxville, TN 37919</string>
+    <string name="restaurant_holy_land_phone">865&#8211;525&#8211;4659</string>
+
+    <string name="restaurant_tomato_head">Tomato Head - Market Square</string>
+    <string name="restaurant_tomato_head_description">This pizzeria and sandwich shop is known for its delectable variety of vegan menu items.  This is their downtown location.</string>
+    <string name="restaurant_tomato_head_address">12 Market Square, Knoxville, TN 37902</string>
+    <string name="restaurant_tomato_head_phone">865&#8211;637&#8211;4067</string>
+
+    <string name="restaurant_tomato_head_west">Tomato Head - West Knoxville</string>
+    <string name="restaurant_tomato_head_west_description">This pizzeria and sandwich shop is known for its variety of vegan menu items.  This location is near West Town Mall.</string>
+    <string name="restaurant_tomato_head_west_address">7240 Kingston Pike #172 The Gallery Shopping Center, Knoxville, TN 37919</string>
+    <string name="restaurant_tomato_head_west_phone">865&#8211;584&#8211;1075</string>
+
+    <string name="restaurant_sitar">Sitar Indian Restaurant</string>
+    <string name="restaurant_sitar_description">With its filling lunch buffet and stellar dinner menu, this Indian restaurant has excellent vegan options.</string>
+    <string name="restaurant_sitar_address">6004 Kingston Pike, Knoxville, TN 37919</string>
+    <string name="restaurant_sitar_phone">865&#8211;588&#8211;1828</string>
+
+    <string name="restaurant_gosh">Gosh Ethiopian Restaurant</string>
+    <string name="restaurant_gosh_description">This Ethiopian restaurant has several delicious vegan entrees, all served on traditional injera bread.</string>
+    <string name="restaurant_gosh_address">3609 Sutherland Ave, Knoxville, TN 37919</string>
+    <string name="restaurant_gosh_phone">865&#8211;544&#8211;4475</string>
+
+    <string name="restaurant_tot">Taste of Thai</string>
+    <string name="restaurant_tot_description">From mild curries to pepper-based devastation, Taste of Thai makes impressive Thai dishes.</string>
+    <string name="restaurant_tot_address">8926 Town and Country Cir, Knoxville, TN 37923</string>
+    <string name="restaurant_tot_phone">865&#8211;691&#8211;4442</string>
+
+    <string name="restaurant_nama">Nama Sushi Bar</string>
+    <string name="restaurant_nama_description">Japanese and American culinary styles work harmoniously in this relaxing sushi bar.</string>
+    <string name="restaurant_nama_address">5130 Kingston Pike, Knoxville, TN 37919</string>
+    <string name="restaurant_nama_phone">865&#8211;588&#8211;9811</string>
+
+    <string name="restaurant_yassin">Yassin\'s Falafel House - Downtown</string>
+    <string name="restaurant_yassin_description">As its name implies, Yassin\'s makes amazing falafel in a setting renowned for acceptance and diversity.  This is the West Knoxville location.</string>
+    <string name="restaurant_yassin_address">159 N Peters Rd, Knoxville, TN 37923</string>
+    <string name="restaurant_yassin_phone">865&#8211;219&#8211;1462</string>
+
+    <string name="restaurant_yassin_west">Yassin\'s Falafel House - West</string>
+    <string name="restaurant_yassin_west_description">As its name implies, Yassin\'s makes amazing falafel in a setting renowned for acceptance and diversity.  This is the West Knoxville location.</string>
+    <string name="restaurant_yassin_west_address">159 N Peters Rd, Knoxville, TN 37923</string>
+    <string name="restaurant_yassin_west_phone">865&#8211;219&#8211;1462</string>
+
+    <string name="restaurant_sanctuary">Sanctuary Vegan Café</string>
+    <string name="restaurant_sanctuary_description">Come here for delectable, American-style comfort food at Knoxville\'s only exclusively vegan restaurant.</string>
+    <string name="restaurant_sanctuary_address">151 N Seven Oaks Dr, Knoxville, TN 37922</string>
+    <string name="restaurant_sanctuary_phone">865&#8211;200&#8211;8042</string>
+
+
+
+    <!-- Food trucks section-->
+    <string name="food_trucks_name">Food Trucks</string>
+
+    <string name="food_truck_viet_grill">Viet Grill Food Truck</string>
+    <string name="food_truck_viet_grill_description">Known for their bánh mì, Viet Grill delivers healthy plant-based Vietnamese dishes at many events in the region.</string>
+    <string name="food_truck_viet_grill_website">www.vietgrillcater.com</string>
+    <string name="food_truck_viet_grill_phone">865&#8211;321&#8211;7592</string>
+
+    <string name="food_truck_gg_tamale">Good Golly Tamale</string>
+    <string name="food_truck_gg_tamale_description">Good Golly Tamale provides some healthy options like their vegan soul food tamale.  They also have a storefront in the Old City.</string>
+    <string name="food_truck_gg_tamale_website">https://goodgollytamale.com</string>
+    <string name="food_truck_gg_tamale_phone">865&#8211;337&#8211;5771</string>
+
+
+
+    <!-- Resources section-->
+    <string name="resources_name">Resources</string>
+
+    <string name="resources_vset">Vegetarian Society of East Tennessee</string>
+    <string name="resources_vset_description">
+        The Vegetarian Society of East Tennessee was founded in 1980 to help promote a vegetarian lifestyle and spread the message of its benefits to the East Tennessee area.
+        The society holds events at the Tennessee Valley Unitarian Universalist Church on the first Sunday of every month.
+        These events are usually an educational presentation like a slideshow or a cooking demonstration.
+        After the presentation, the Vegetarian Society of East Tennessee hosts a potluck dinner together.
+        This group welcomes anyone, from non-vegetarians wanting to learn more about the benefits of vegetarianism to lifelong vegetarians and vegans.
+    </string>
+    <string name="resources_vset_website">http://defrod90.wixsite.com/vegetarian-society</string>
+
+    <string name="resources_k_town_vegans">K-Town Vegans Meetup</string>
+    <string name="resources_k_town_vegans_description">
+        This meatless Meetup group has been active for almost ten years, promoting a vegan lifestyle through various functions throughout the Knoxville and surrounding area.
+        Most of the events scheduled by K-Town Vegans include gatherings at local restaurants endorsed by the group and potlucks.
+        Additionally, other functions include films, discussions, cooking classes, and demonstrations.
+    </string>
+    <string name="resources_k_town_vegans_website">https://www.meetup.com/knoxvegans/</string>
+
+    <string name="resources_knoxville_vegans_fb_group">Knoxville Vegans Facebook Group</string>
+    <string name="resources_knoxville_vegans_fb_group_description">
+        This Facebook group is an online discussion and events page for the K-Town Vegans Meetup.
+        People can ask questions, seek support, share recipes, and connect with their fellow vegan.
+    </string>
+    <string name="resources_knoxville_vegans_fb_group_website">https://www.facebook.com/groups/230692370434413/</string>
+
+    <string name="resources_knox_save">Knoxville Farmed Animal Save</string>
+    <string name="resources_knox_save_description">
+        This non-profit organization is the local chapter of the Save Movement Worldwide Network.
+        Their events align with their member network\'s mission of bring public attention to animal exploitation and suffering by holding vigils and bearing witness at institutions of animal suffering.
+        Their Facebook page is a meeting point for discussion and local events.
+    </string>
+    <string name="resources_knox_save_website">https://www.facebook.com/knoxSAVE/</string>
+
+
+    <!-- Events section-->
+    <string name="events_name">Events</string>
+
+    <string name="events_vset_potlucks">Monthly VS-ET Meetings</string>
+    <string name="events_vset_potlucks_description">
+        On the first Sunday of each month at 6:00 PM, the Vegetarian Society of East Tennessee hosts their monthly events followed by a potluck dinner.
+        Admission to these events is generally $3 for members, $4 for non-members, or $10 max per family.
+    </string>
+    <string name="events_vset_potlucks_address">2931 Kingston Pike, Knoxville, TN 37919</string>
+
+    <string name="events_scruffy_city_vegfest">Scruffy City VeganFest</string>
+    <string name="events_scruffy_city_vegfest_description">
+        Knoxville Farmed Animal Save is hosting the first annual Scruffy City VeganFest at Knoxville Expo Center on Saturday October 6 from 10am-4pm.
+        There will be many vendors and exhibitors at this event, showcasing local goods and promoting East Tennessee\'s vegan-friendly businesses and organizations.
+    </string>
+    <string name="events_scruffy_city_vegfest_address">5441 Clinton Hwy, Knoxville, TN 37912</string>
+
+    <string name="events_thxgiving_potluck">Annual VS-ET Celebration</string>
+    <string name="events_thxgiving_potluck_description">
+        On the third Sunday of November, the Vegetarian Society of East Tennessee hosts their biggest event, the annual Thanksgiving celebration.
+        This event includes a rummage sale, music, guest speakers, and a massive potluck.
+        Instead of their typical Tennessee Valley Unitarian Universalist Church venue, this banquet is held at the First Seventh Day Adventist Church.
+    </string>
+    <string name="events_thxgiving_potluck_address">3611 Kingston Pike, Knoxville, TN 37919</string>
+
+    <!--Items for ListView item template-->
+    <string name="list_title">Title</string>
+    <string name="list_description">This is a sample of how the text is going to appear on your list items. Sample text like this is useful to have, especially if you are writing huge blocks of text. This can be quite an item.</string>
+    <string name="list_website">Website</string>
+    <string name="list_phone_number">555-555-5555</string>
+    <string name="list_directions">Directions</string>
+    <string name="listings_menu_text_view">Listings Menu</string>
+
+</resources>

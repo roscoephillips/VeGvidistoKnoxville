@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/spacing_small"
+    android:layout_marginLeft="@dimen/spacing_small"
+    android:layout_marginRight="@dimen/spacing_small"
+    android:layout_marginTop="@dimen/spacing_small"
+    card_view:cardBackgroundColor="@color/light_green"
+    card_view:cardCornerRadius="@dimen/spacing_x_small">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/listing_title"
+            style="@style/title_text_view"
+            android:text="@string/list_title"
+            app:fontFamily="@font/karla" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/listing_description"
+                style="@style/body_text_view"
+                android:layout_weight="1"
+                android:text="@string/list_description"
+                app:fontFamily="@font/karla" />
+
+            <ImageView
+                android:id="@+id/image_view_item"
+                style="@style/image_view_item"
+                android:src="@drawable/vegan_food_sample_image" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/directions_container"
+                style="@style/resource_container">
+
+                <ImageView style="@style/divider_horizontal" />
+
+                <ImageView
+                    android:id="@+id/directions_icon"
+                    style="@style/image_icon_style"
+                    android:src="@drawable/ic_directions_black_24dp" />
+
+                <TextView
+                    android:id="@+id/listing_address"
+                    style="@style/text_view_resource_list_item"
+                    android:layout_toEndOf="@id/directions_icon"
+                    android:layout_toRightOf="@id/directions_icon"
+                    android:textIsSelectable="true"
+                    android:text="@string/list_directions"
+                    app:fontFamily="@font/karla" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/website_container"
+                style="@style/resource_container">
+
+                <ImageView style="@style/divider_horizontal" />
+
+                <ImageView
+                    android:id="@+id/website_icon"
+                    style="@style/image_icon_style"
+                    android:src="@drawable/ic_web_black_24dp" />
+
+                <TextView
+                    android:id="@+id/listing_website"
+                    style="@style/text_view_resource_list_item"
+                    android:layout_toEndOf="@id/website_icon"
+                    android:layout_toRightOf="@id/website_icon"
+                    android:text="@string/list_website"
+                    app:fontFamily="@font/karla" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/phone_number_container"
+                style="@style/resource_container">
+
+                <ImageView style="@style/divider_horizontal" />
+
+                <ImageView
+                    android:id="@+id/phone_icon"
+                    style="@style/image_icon_style"
+                    android:src="@drawable/ic_phone_black_24dp" />
+
+                <TextView
+                    android:id="@+id/listing_phone_no"
+                    style="@style/text_view_resource_list_item"
+                    android:layout_toEndOf="@id/phone_icon"
+                    android:layout_toRightOf="@id/phone_icon"
+                    android:text="@string/list_phone_number"
+                    app:fontFamily="@font/karla" />
+            </RelativeLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>
